@@ -178,12 +178,11 @@ namespace EF
 
             //Insert, Select, Update, Delete
             // InsertData();
-            ReadProduct();
+            // ReadProduct();
             // RenameProduct(1, "Laptop 02");
             // DeleteCategory();
 
             //Logging-
-
         }
     }
 }
